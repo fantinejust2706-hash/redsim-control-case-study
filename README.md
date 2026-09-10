@@ -95,3 +95,70 @@ Este repositorio es un case study público creado para presentar el proyecto y s
 El código fuente de la plataforma REDSIM CONTROL real permanece en un repositorio privado por razones de seguridad y confidencialidad.
 
 No se incluyen datos reales de trabajadores, credenciales, información sensible ni código privado del cliente.
+---
+
+## Galería del proyecto
+
+### 01 — REDSIM CONTROL
+
+<p align="center">
+  <img src="./1.png" alt="REDSIM CONTROL — Caso técnico" width="900">
+</p>
+
+### 02 — El problema
+
+<p align="center">
+  <img src="./2.png" alt="El problema de la operación en terreno" width="900">
+</p>
+
+### 03 — La solución
+
+<p align="center">
+  <img src="./3.png" alt="La solución REDSIM CONTROL" width="900">
+</p>
+
+### 04 — Panel principal
+
+<p align="center">
+  <img src="./4.png" alt="Panel principal de REDSIM CONTROL" width="900">
+</p>
+
+### 05 — Reloj punto con geolocalización
+
+<p align="center">
+  <img src="./5.png" alt="Reloj punto con geolocalización" width="900">
+</p>
+
+### 06 — Novedades
+
+<p align="center">
+  <img src="./6.png" alt="Registro de novedades" width="900">
+</p>
+
+### 07 — Facturas y reportes
+
+<p align="center">
+  <img src="./7.png" alt="Facturas y reportes" width="900">
+</p>
+
+### 08 — Soporte y personalización
+
+<p align="center">
+  <img src="./8.png" alt="Soporte y personalización" width="900">
+</p>
+
+---
+
+## Demo
+
+Demo visual de REDSIM CONTROL con datos ficticios, creada exclusivamente para presentación del case.
+
+El código fuente real permanece privado por motivos de seguridad y confidencialidad.
+
+---
+
+## Nota de confidencialidad
+
+Este repositorio presenta exclusivamente el case técnico y materiales demostrativos.
+
+No se incluyen datos reales de trabajadores, credenciales, información sensible ni el código fuente privado del proyecto.
