@@ -149,12 +149,14 @@ No se incluyen datos reales de trabajadores, credenciales, información sensible
 
 ---
 
+
 ## Demo
 
 Demo visual de REDSIM CONTROL con datos ficticios, creada exclusivamente para presentación del case.
 
-El código fuente real permanece privado por motivos de seguridad y confidencialidad.
+[Ver demo en video](./redsim-control-demo-github.mp4)
 
+El código fuente real permanece privado por motivos de seguridad y confidencialidad.
 ---
 
 ## Nota de confidencialidad
