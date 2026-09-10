@@ -31,8 +31,10 @@ Principales áreas:
 - Gestión de funcionarios
 - Empresas y plantas
 - Trabajo y seguimiento operacional
+- Reloj punto con geolocalización
 - Novedades
 - Ausencias
+- Facturas
 - Informes
 - Configuración
 - Control de acceso
